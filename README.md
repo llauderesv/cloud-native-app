@@ -1,2 +1,2 @@
-# cloud-native-app
-An implementation of Cloud Native technologies
+# cloud-native-patterns
+A collection of implementation of Cloud Native Patterns
